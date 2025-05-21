@@ -68,5 +68,3 @@ Le script de détection interroge activement les adresses IP présentes dans les
 
 Ce projet est fourni à des fins pédagogiques uniquement, par exemple dans le cadre d’un cours ou d’un laboratoire de cybersécurité.
 L'utilisation sur un réseau sans autorisation explicite constitue une infraction à la loi.
-
-```
